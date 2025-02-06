@@ -23,7 +23,7 @@ This repository contains projects developed as part of the "Drone Programmer in 
 
 ---
 
-### [2. Clover Drone Simulator](https://github.com/Shustovskikh/g_unmanned_aerial_vehicle/2_clover_drone_simulator)
+### [2. Clover Drone Simulator](https://github.com/Shustovskikh/g_unmanned_aerial_vehicle/tree/main/2_clover_drone_simulator)
 
 **Description:** A program that interacts with the Clover drone API ("Clover" platform). It allows users to modify flight routes, altitude, and speed and execute commands such as takeoff, landing, and movement along a designated path.
 
