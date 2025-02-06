@@ -39,7 +39,7 @@ This repository contains projects developed as part of the "Drone Programmer in 
 
 ---
 
-### [4. Drone Route Calculator](https://github.com/Shustovskikh/g_unmanned_aerial_vehicle/4_drone_route_calculator)
+### [4. Drone Route Calculator](https://github.com/Shustovskikh/g_unmanned_aerial_vehicle/tree/main/4_drone_route_calculator)
 
 **Description:** An application for calculating UAV routes based on user-inputted start, end, and intermediate coordinates. A graphical interface is used for convenience.
 
