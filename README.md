@@ -31,7 +31,7 @@ This repository contains projects developed as part of the "Drone Programmer in 
 
 ---
 
-### [3. Object Detection App](https://github.com/Shustovskikh/g_unmanned_aerial_vehicle/3_object_detection_app)
+### [3. Object Detection App](https://github.com/Shustovskikh/g_unmanned_aerial_vehicle/tree/main/3_object_detection_app)
 
 **Description:** A program for detecting objects (faces, round objects, etc.) in a video stream. It is implemented using OpenCV and computer vision techniques.
 
