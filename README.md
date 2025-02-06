@@ -15,7 +15,7 @@ This repository contains projects developed as part of the "Drone Programmer in 
 
 ## Developed Projects
 
-### [1. Drones Notes](https://github.com/Shustovskikh/g_unmanned_aerial_vehicle/1_drones_notes)
+### [1. Drones Notes](https://github.com/Shustovskikh/g_unmanned_aerial_vehicle/tree/main/1_drones_notes)
 
 **Description:** An application for managing notes about unmanned aerial vehicles. Users can add, edit, and view saved text-based notes.
 
