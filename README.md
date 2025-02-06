@@ -47,7 +47,7 @@ This repository contains projects developed as part of the "Drone Programmer in 
 
 ---
 
-### [5. Drone Control App Project](https://github.com/Shustovskikh/g_unmanned_aerial_vehicle/5_drone_control_app_project)
+### [5. Drone Control App Project](https://github.com/Shustovskikh/g_unmanned_aerial_vehicle/tree/main/5_drone_control_app_project)
 
 **Description:** A fully functional software application for drone control via a graphical interface. It supports takeoff, landing, movement control, camera operation, video recording, telemetry, and other features.
 
